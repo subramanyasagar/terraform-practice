@@ -25,3 +25,5 @@ NAT Gateway:
 
 Instances:
   name: instances.tf
+
+![image](https://github.com/user-attachments/assets/2d9d277d-74ec-4441-8465-46ca9119a9cf)
